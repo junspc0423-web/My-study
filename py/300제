@@ -1,1 +1,18 @@
 print('Hello world')
+print( "Mary's cosmetics")
+print('신씨가 소리질렀다. "도둑이야"')
+print("c:\Windows")
+print("안녕하세요.\n만나서\t\t반갑습빈다.")
+print("오늘은", "일요일")
+print("naver","kakao","sk","samsung", sep=":")
+print( 5/3)
+
+삼성전자=50000
+총금액= 삼성전자*10
+print(총금액)
+
+에어컨=48584*36
+print(에어컨)
+
+letters="python"
+print(letters[0], letters[2])
